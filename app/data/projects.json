@@ -1,0 +1,18 @@
+[
+    {
+      "title": "NC News",
+      "imageSrc": "/nc-news.png",
+      "description": " A website that allows for social news aggregation, web content rating and discussions. Built upon the endpoints available on NC News API.",
+      "skills": ["React", "CSS"],
+      "demo": "https://tranquil-dango-5844a8.netlify.app/",
+      "source": "https://github.com/mxy-1/nc-news"
+    },
+    {
+      "title": "NC News API",
+      "imageSrc": "/nc-news-api.png",
+      "description": "A RESTful API to perform CRUD operations.",
+      "skills": ["Javascript", "Express", "Node", "PostgreSQL", "Jest", "Supertest"],
+      "demo": "https://news-api-3trz.onrender.com/api/",
+      "source": "https://github.com/mxy-1/news-api"
+    }
+  ]
