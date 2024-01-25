@@ -3,9 +3,17 @@
       "title": "NC News",
       "imageSrc": "/nc-news.png",
       "description": " A website that allows for social news aggregation, web content rating and discussions. Built upon the endpoints available on NC News API.",
-      "skills": ["React", "CSS"],
+      "skills": ["React", "Javascript", "CSS"],
       "demo": "https://tranquil-dango-5844a8.netlify.app/",
       "source": "https://github.com/mxy-1/nc-news"
+    },
+    {
+      "title": "Travel Gems",
+      "imageSrc": "/travel-gems.png",
+      "description": "An application that feautures user curated, unique travel locations. Users can upload locations, save, review and get directions to the newly discovered travel gem.",
+      "skills": ["Javascript", "MongoDB", "Next.js", "Tailwind CSS", "Google Maps API"],
+      "demo": "https://news-api-3trz.onrender.com/api/",
+      "source": "https://github.com/mxy-1/travel-gems"
     },
     {
       "title": "NC News API",
