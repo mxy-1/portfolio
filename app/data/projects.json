@@ -10,8 +10,8 @@
     {
       "title": "Travel Gems",
       "imageSrc": "/travel-gems.png",
-      "description": "An application that feautures user curated, unique travel locations. Users can upload locations, save, review and get directions to the newly discovered travel gem.",
-      "skills": ["Javascript", "MongoDB", "Next.js", "Tailwind CSS", "Google Maps API"],
+      "description": "An application that features user curated, unique travel locations. Users can upload locations, save, review and get directions to the newly discovered travel gem.",
+      "skills": ["Javascript", "MongoDB", "Next.js", "NextAuth.js", "Tailwind CSS", "Google Maps API"],
       "demo": "https://news-api-3trz.onrender.com/api/",
       "source": "https://github.com/mxy-1/travel-gems"
     },
@@ -19,7 +19,7 @@
       "title": "NC News API",
       "imageSrc": "/nc-news-api.png",
       "description": "A RESTful API to perform CRUD operations.",
-      "skills": ["Javascript", "Express", "Node", "PostgreSQL", "Jest", "Supertest"],
+      "skills": ["Javascript", "PostgreSQL", "Express", "Node.js", "Jest", "Supertest"],
       "demo": "https://news-api-3trz.onrender.com/api/",
       "source": "https://github.com/mxy-1/news-api"
     }

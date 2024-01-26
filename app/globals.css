@@ -21,3 +21,15 @@ body {
     text-wrap: balance;
   }
 }
+
+@layer base {
+  h2 {
+    @apply text-2xl font-semibold
+  }
+  h3 {
+    @apply text-lg font-semibold
+  }
+  p {
+    @apply text-sm
+  }
+}
