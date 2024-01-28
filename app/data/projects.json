@@ -12,7 +12,7 @@
       "imageSrc": "/travel-gems.png",
       "description": "An application that features user curated, unique travel locations. Users can upload locations, save, review and get directions to the newly discovered travel gem.",
       "skills": ["Javascript", "MongoDB", "Next.js", "NextAuth.js", "Tailwind CSS", "Google Maps API"],
-      "demo": "https://news-api-3trz.onrender.com/api/",
+      "demo": "https://github.com/mxy-1/travel-gems",
       "source": "https://github.com/mxy-1/travel-gems"
     },
     {
