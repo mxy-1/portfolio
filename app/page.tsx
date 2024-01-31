@@ -3,10 +3,11 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
+//  className="px-10 py-6" add to divs instead
 export default function Home() {
     return (
-        <main className="px-10 py-6">
-            <div className="h-screen">
+        <main >
+            <div className="h-screen border border-slate-400 bg-slate-50 grid px-10 pt-10">
                 <Navbar />
                 <Hero />
             </div>
