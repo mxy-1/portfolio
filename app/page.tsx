@@ -5,9 +5,11 @@ import Skills from "./components/Skills";
 
 export default function Home() {
     return (
-        <main className="px-8 py-4">
-            <Navbar />
-            <Hero />
+        <main className="px-10 py-6">
+            <div className="h-screen">
+                <Navbar />
+                <Hero />
+            </div>
             <Skills />
             <Projects />
         </main>
