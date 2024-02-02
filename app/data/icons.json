@@ -1,0 +1,15 @@
+[
+    {"skill": "Javascript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"},
+    {"skill": "HTML", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"},
+    {"skill": "CSS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"},
+    {"skill": "React", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"},
+    {"skill": "Express", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"},
+    {"skill": "Node.js", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"},
+    {"skill": "Jest", "src" :"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"},
+    {"skill": "PostgreSQL", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"},
+    {"skill": "Next.js", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"},
+    {"skill": "Tailwind CSS", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"},
+    {"skill": "MongoDB", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"},
+    {"skill": "Python", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"},
+    {"skill": "GitHub", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"}
+  ]

@@ -18,7 +18,7 @@ const Projects = () => {
 							<Image src={project.imageSrc} width={600}
 								height={500} alt={`Image of ${project.imageSrc}`} className="mb-2"/>
 							<Link href={project.demo} target="_blank" className="border-solid border-2 border-blue-300  p-1 text-base rounded-md bg-blue-100 hover:bg-blue-300 font-medium">View<MdOutlinePageview size="26px" className="inline ml-1 my-2"/></Link>
-							<Link href={project.source}  target="_blank" className="border-solid border-2 border-blue-300 p-1 text-base ml-2 rounded-md bg-blue-100  hover:bg-blue-300 font-medium">Github<FaGithub size="18px" className="inline ml-1"/></Link>
+							<Link href={project.source}  target="_blank" className="border-solid border-2 border-blue-300 p-1 text-base ml-2 rounded-md bg-blue-100  hover:bg-blue-300 font-medium">GitHub<FaGithub size="18px" className="inline ml-1"/></Link>
 							<h3>{project.title}</h3>
 							<p className="py-1">{project.description}</p>
 							<ul>
