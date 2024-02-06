@@ -7,7 +7,7 @@ import Skills from "./components/Skills";
 export default function Home() {
     return (
         <main >
-            <div className="h-screen border border-slate-400 bg-slate-50 grid px-10 pt-10">
+            <div className="h-screen bg-slate-50 grid px-10 pt-10">
                 <Navbar />
                 <Hero />
             </div>

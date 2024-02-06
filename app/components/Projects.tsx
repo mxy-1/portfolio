@@ -8,12 +8,12 @@ import { MdOutlinePageview } from "react-icons/md";
 // 0px 0px 6px 2px rgb(106 131 146 / 17%)
 const Projects = () => {
 	return (
-		<section id="projects" className="px-10">
-			<h2 className="my-2 pt-6 pb-1">Projects</h2>
+		<section id="projects" className="px-10  bg-slate-50">
+			<h2 className="mb-2 pt-6 pb-1">Projects</h2>
 			<div className="flex flex-wrap flex-row justify-between">
 				{
 					projects.map(project => (
-						<div key={project.title} className="md:grow md:max-w-[48%] w-full p-4 bg-slate-50 mb-10 rounded-md">
+						<div key={project.title} className="md:grow md:max-w-[48%] w-full p-4 bg-white mb-10 rounded-md shadow-md">
 							<h3 className="pb-2">{project.title}</h3>
 							<Image src={project.imageSrc} width={600}
 								height={500} alt={`Image of ${project.imageSrc}`} className="mb-2 rounded-md border-solid border-2 border-slate-600"/>

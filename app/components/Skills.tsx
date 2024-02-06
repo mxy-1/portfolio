@@ -4,7 +4,7 @@ import SkillCard from "./SkillCard"
 const Skills = () => {
 
 	return (
-		<section id="skills" className="px-10 ">
+		<section id="skills" className="px-10 pb-8 bg-blue-50">
 			<h2 className="pt-6 pb-1">Skills</h2>
 			<div className="flex flex-row flex-wrap gap-2">
 				{icons.map(icon => (
