@@ -8,7 +8,7 @@ import { MdOutlinePageview } from "react-icons/md";
 // 0px 0px 6px 2px rgb(106 131 146 / 17%)
 const Projects = () => {
 	return (
-		<section id="projects" className="px-10  bg-slate-50">
+		<section id="projects" className="px-10  bg-slate-50 lg:px-20">
 			<h2 className="mb-2 pt-6 pb-1">Projects</h2>
 			<div className="flex flex-wrap flex-row justify-between">
 				{
