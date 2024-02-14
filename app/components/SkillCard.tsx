@@ -1,7 +1,7 @@
 "use client"
 import { useState } from "react"
 
-const SkillCard = ({icon}: {icon:any}) => {
+const SkillCard = ({icon}: {icon: {skill: string, src:string}}) => {
     const [skill, setSkill] = useState(false)
 
     const handleMouseEnter = () => {
