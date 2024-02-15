@@ -3,9 +3,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { FaGithub } from "react-icons/fa";
 import { MdOutlinePageview } from "react-icons/md";
-// flex-grow: 1;
-//     max-width: 46%;
-// 0px 0px 6px 2px rgb(106 131 146 / 17%)
+
+
 const Projects = () => {
 	return (
 		<section id="projects" className="px-10  bg-slate-50 lg:px-20">
