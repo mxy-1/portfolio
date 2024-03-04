@@ -12,7 +12,7 @@ const Projects = () => {
 			<div className="flex flex-wrap flex-row justify-between">
 				{
 					projects.map(project => (
-						<div key={project.title} className="md:grow md:max-w-[48%] w-full p-4 bg-white mb-10 rounded-md shadow-md">
+						<div key={project.title} className="md:grow md:max-w-[48%] w-full p-4 bg-white mb-10 rounded-md shadow-md ">
 							<h3 className="pb-2">{project.title}</h3>
 							<Image src={project.imageSrc} width={600}
 								height={500} alt={`Image of ${project.imageSrc}`} className="mb-2 rounded-md border-solid border-2 border-slate-600"/>
